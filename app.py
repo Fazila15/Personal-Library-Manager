@@ -18,7 +18,7 @@ st.markdown(f"""
             background-size: cover;
             background-position: center;
             font-family: 'Poppins', sans-serif;
-            color: white;
+            color: black;
         }}
         .container {{
             display: flex;
